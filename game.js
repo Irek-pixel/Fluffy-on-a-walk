@@ -14,7 +14,7 @@ const player = {
 
 // Load player character image (replace with the Maltipoo image path)
 const playerImage = new Image();
-playerImage.src = "/path/to/your/maltipoo.png"; // Replace with actual image path
+playerImage.src = "Fluffy-on-a-walk/multipoo.webp"; // Replace with actual image path
 
 // Handle keyboard input
 const keys = {};
